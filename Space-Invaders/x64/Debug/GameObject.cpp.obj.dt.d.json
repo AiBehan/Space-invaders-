@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ag260921\\documents\\games programming 1\\week 6 (memory management)\\gp1 - lab 6 solution (in progress)\\space-invaders\\space-invaders\\gameobject.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\ag260921\\documents\\games programming 1\\week 6 (memory management)\\gp1 - lab 6 solution (in progress)\\space-invaders\\space-invaders\\gameobject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

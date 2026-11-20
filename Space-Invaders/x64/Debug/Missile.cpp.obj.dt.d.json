@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ag260921\\documents\\gp1-teachingsupplies\\games programming 1\\week 5 (polymorphism and inheritance)\\gp1 - lab 5 solution (in progress)\\space-invaders\\space-invaders\\missile.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\ag260921\\documents\\gp1-teachingsupplies\\games programming 1\\week 5 (polymorphism and inheritance)\\gp1 - lab 5 solution (in progress)\\space-invaders\\space-invaders\\missile.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
